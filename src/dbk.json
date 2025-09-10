@@ -1,0 +1,24 @@
+{
+  "todos": {
+    "1":{
+
+      "title": "Дело 2",
+      "completed": true
+    },
+     "2":{
+
+      "title": "Дело 1",
+      "completed": true
+    },
+     "3":{
+
+      "title": "Learn SvelteKit",
+      "completed": true
+    },
+     "4":{
+
+      "title": "Дело 1",
+      "completed": true
+    }
+  }
+}
