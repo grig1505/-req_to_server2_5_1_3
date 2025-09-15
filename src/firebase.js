@@ -11,8 +11,6 @@ const firebaseConfig = {
 	databaseURL: "https://productsproject-7a9cb-default-rtdb.firebaseio.com/",
 };
 
-
 const app = initializeApp(firebaseConfig);
-
 
 export const db = getDatabase(app);

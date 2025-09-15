@@ -4,3 +4,6 @@ firebase init
 firebase deploy
 
 https://productsproject-7a9cb.web.app
+
+
+ npm install -g firebase-tools 
